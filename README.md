@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Windows 
 
-Download/Clone the repo , and run 
+Download/Clone the repo ,change the directory into the repo. Run: 
 
 ```
 setup.bat
