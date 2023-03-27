@@ -5,12 +5,14 @@ A Simple CLI Application To Download And Get Info About Youtube Videos/PlayLists
 
 # Installing 
 
-Follow the given guide to successfully run this application
+Follow The Guide Given Below!
 
 ## Linux
 
 ```
-
+git clone https://github.com/JoeJoe06/00TeamPyYt
+cd 00TeamPyYt
+pip install -r requirements.txt
 ```
 
 ## Windows 
