@@ -6,7 +6,7 @@ A Simple CLI Application To Download And Get Info About Youtube Videos/PlayLists
 # Installing 
 
 Follow The Guide Given Below!
-
+Notice: You have to have Python And Pip preinstalled 
 ## Linux
 
 ```
